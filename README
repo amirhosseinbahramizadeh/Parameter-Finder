@@ -1,0 +1,8 @@
+parameter finder xss or open redirect
+# Required Packages
+1. Json
+2. Requests
+3. Random
+
+Use "pip" to install all the required packages!
+
